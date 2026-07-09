@@ -1,4 +1,4 @@
-🏠 Airbnb Price Prediction: Machine Learning Case Study
+ Airbnb Price Prediction: Machine Learning Case Study
 
 📝 Problem Statement
 Airbnb is an online marketplace for lodging and tourism. Price is a key factor for customers when booking. The goal of this project is to build a robust Machine Learning model to predict the price (log_price) of a new Airbnb property based on listing attributes like room type, city, accommodations, and reviews.
