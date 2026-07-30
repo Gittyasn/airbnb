@@ -13,7 +13,7 @@ Perform Exploratory Data Analysis (EDA) to find pricing trends.
 Clean and preprocess highly categorical and missing real-world data.
 Implement and compare Simple Linear Regression vs Multiple Linear Regression.
 Deploy an interactive Streamlit Dashboard for real-time price estimation.
-🚀 Getting Started
+# Getting Started
 1. Installation
 Clone the repository and install the dependencies:
 
