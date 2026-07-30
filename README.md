@@ -8,7 +8,7 @@ The dataset contains 74,111 Airbnb listings across various cities.
 
 Target Variable: log_price
 Key Features: room_type, accommodates, bathrooms, number_of_reviews, review_scores_rating, city, instant_bookable, etc.
-🎯 Objectives
+## Objectives
 Perform Exploratory Data Analysis (EDA) to find pricing trends.
 Clean and preprocess highly categorical and missing real-world data.
 Implement and compare Simple Linear Regression vs Multiple Linear Regression.
