@@ -3,7 +3,7 @@
 📝 Problem Statement
 Airbnb is an online marketplace for lodging and tourism. Price is a key factor for customers when booking. The goal of this project is to build a robust Machine Learning model to predict the price (log_price) of a new Airbnb property based on listing attributes like room type, city, accommodations, and reviews.
 
-📊 Dataset Overview
+# Dataset Overview
 The dataset contains 74,111 Airbnb listings across various cities.
 
 Target Variable: log_price
