@@ -1,9 +1,9 @@
  Airbnb Price Prediction: Machine Learning Case Study
 
-📝 Problem Statement
+### Problem Statement
 Airbnb is an online marketplace for lodging and tourism. Price is a key factor for customers when booking. The goal of this project is to build a robust Machine Learning model to predict the price (log_price) of a new Airbnb property based on listing attributes like room type, city, accommodations, and reviews.
 
-# Dataset Overview
+## Dataset Overview
 The dataset contains 74,111 Airbnb listings across various cities.
 
 Target Variable: log_price
@@ -13,7 +13,7 @@ Perform Exploratory Data Analysis (EDA) to find pricing trends.
 Clean and preprocess highly categorical and missing real-world data.
 Implement and compare Simple Linear Regression vs Multiple Linear Regression.
 Deploy an interactive Streamlit Dashboard for real-time price estimation.
-# Getting Started
+## Getting Started
 1. Installation
 Clone the repository and install the dependencies:
 
@@ -31,7 +31,7 @@ To use the interactive price predictor:
 
 bash
 python -m streamlit run src/streamlit_app.py
-# Model Performance
+## Model Performance
 Model	R2 Score	MAE
 Simple Linear Regression	0.3155	0.5480
 Multiple Linear Regression	0.5049	0.4041
