@@ -31,7 +31,7 @@ To use the interactive price predictor:
 
 bash
 python -m streamlit run src/streamlit_app.py
-📈 Model Performance
+# Model Performance
 Model	R2 Score	MAE
 Simple Linear Regression	0.3155	0.5480
 Multiple Linear Regression	0.5049	0.4041
@@ -50,7 +50,7 @@ text
 ├── requirements.txt # Project dependencies
 └── README.md        # Project documentation
 
-🛠️ Built With
+# Built With
 Python (Pandas, Numpy, Seaborn)
 Scikit-Learn (Modeling & Pipelines)
 Streamlit (UI/UX deployment)
