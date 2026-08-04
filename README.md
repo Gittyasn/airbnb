@@ -41,16 +41,15 @@ Conclusion: The Multiple Linear Regression model provides a significantly more a
 ##  Folder Structure
 
 text
-
-├── data/           # Dataset & Data Dictionary
-├── notebook/       # Jupyter Notebook for interactive research
-├── plots/          # Automated Exploratory Data plots
+├── data/                   # Dataset & Data Dictionary
+├── notebook/               # Jupyter Notebook for interactive research
+├── plots/                  # Automated Exploratory Data plots
 ├── src/            
 │   ├── airbnb_analysis.py  # Main ML script
 │   ├── streamlit_app.py    # Dashboard code
 │   └── model.pkl           # Saved pre-trained model
-├── requirements.txt # Project dependencies
-└── README.md        # Project documentation
+├── requirements.txt        # Project dependencies
+└── README.md               # Project documentation
 
 ## Built With
 Python (Pandas, Numpy, Seaborn)
