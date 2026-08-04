@@ -39,7 +39,9 @@ Multiple Linear Regression	0.5049	0.4041
 Conclusion: The Multiple Linear Regression model provides a significantly more accurate estimation by leveraging property-specific features and location data.
 
 ##  Folder Structure
+
 text
+
 ├── data/           # Dataset & Data Dictionary
 ├── notebook/       # Jupyter Notebook for interactive research
 ├── plots/          # Automated Exploratory Data plots
