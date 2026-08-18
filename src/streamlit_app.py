@@ -130,7 +130,7 @@ elif menu == "Data Analysis":
     with col1:
         st.markdown("#### Price by Room Type")
         fig2, ax2 = plt.subplots()
-        sns.barplot(x='room_type', y='log_price', data=df, palette='viridis')
+        sns.barplot(x='room_type', y='log_price', data=df, palette='viridis', hue='room_type', legend=False)
         plt.xticks(rotation=45)
         st.pyplot(fig2)
         
