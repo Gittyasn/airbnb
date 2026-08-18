@@ -7,7 +7,7 @@ Airbnb is an online marketplace for lodging and tourism. Price is a key factor f
 
 ---
 
-## 🚀 Objectives
+##  Objectives
 1. Perform Exploratory Data Analysis (EDA) to find pricing trends.
 2. Clean and preprocess highly categorical and missing real-world data.
 3. Implement and compare **Simple Linear Regression** vs **Multiple Linear Regression**.
