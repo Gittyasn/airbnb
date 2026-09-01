@@ -1,4 +1,4 @@
-# 🏠 Airbnb Price Prediction & Analytics
+#  Airbnb Price Prediction & Analytics
 
 An end-to-end Machine Learning case study to predict the price (`log_price`) of Airbnb listings based on listing attributes (e.g., location, room type, listing features, reviews). The repository features an interactive web application built with Streamlit and a fully structured preprocessing and training pipeline.
 
