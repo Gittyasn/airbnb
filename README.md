@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning case study to predict the price (`log_price`) of Airbnb listings based on listing attributes (e.g., location, room type, listing features, reviews). The repository features an interactive web application built with Streamlit and a fully structured preprocessing and training pipeline.
 
-### 📋 Problem Statement
+###  Problem Statement
 Airbnb is an online marketplace for lodging and tourism. Price is a key factor for customers when booking. The goal of this project is to build a robust Machine Learning model to predict the price (`log_price`) of a new Airbnb property based on listing attributes like room type, city, accommodations, and reviews.
 
 ---
