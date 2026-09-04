@@ -142,7 +142,7 @@ The pipeline saves high-quality EDA charts into the `plots/` folder:
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 *   **Python** (Pandas, Numpy, Matplotlib, Seaborn)
 *   **Scikit-Learn** (Preprocessing Pipelines, Imputers, Encoders, Linear Regression)
