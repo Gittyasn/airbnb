@@ -15,7 +15,7 @@ Airbnb is an online marketplace for lodging and tourism. Price is a key factor f
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 | Model | $R^2$ Score | MAE |
 | :--- | :--- | :--- |
