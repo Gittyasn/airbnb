@@ -89,7 +89,7 @@ python -m pip install -r requirements.txt
 
 ---
 
-## 📈 Training Pipeline & Modeling
+##  Training Pipeline & Modeling
 
 To clean the data, train the regression model, and export the validation figures, run:
 ```bash
