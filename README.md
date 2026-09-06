@@ -42,7 +42,7 @@ Airbnb is an online marketplace for lodging and tourism. Price is a key factor f
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone & Navigate to Repository
 Ensure you are in the project root directory:
