@@ -132,7 +132,7 @@ streamlit run src/streamlit_app.py
 
 ---
 
-## 🎨 Visualizations Overview
+##  Visualizations Overview
 
 The pipeline saves high-quality EDA charts into the `plots/` folder:
 *   `log_price_distribution.png`: Log-transformed price frequency visualization.
