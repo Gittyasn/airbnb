@@ -26,7 +26,7 @@ Airbnb is an online marketplace for lodging and tourism. Price is a key factor f
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 ├── data/                   # Dataset & Data Dictionary (AirBNB.csv, Data-Dictionary.xlsx)
